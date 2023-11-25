@@ -25,6 +25,8 @@ Estudante de programação buscando trabalhar no ramo.
 -->
 ### Habilidades
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+
 
 
 ### Bibliotecas e Frameworks
